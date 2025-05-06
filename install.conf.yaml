@@ -8,6 +8,7 @@
     ~/.zshrc:
     ~/.gitconfig:
     ~/.vimrc:
+    ~/.zprofile:
 
 # - create:
 #     - ~/Arbeit
