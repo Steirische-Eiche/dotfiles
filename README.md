@@ -11,3 +11,4 @@ Ich lerne über Dotfiles auf [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz).
 - Trackpad (Drei-Finger-Ziehen und Klick durch Tippen)
 - .zshrc
 - Git (Konfiguration und SSH)
+- Homebrew Installation
