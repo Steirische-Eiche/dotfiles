@@ -6,6 +6,7 @@
 alias l='ls'
 alias ll='ls -lAFh'
 alias v='vim'
+alias x='exit'
 
 # Prompt(s)
 PROMPT='
